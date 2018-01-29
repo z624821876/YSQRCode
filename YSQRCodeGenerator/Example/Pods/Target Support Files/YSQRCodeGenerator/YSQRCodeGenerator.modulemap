@@ -1,0 +1,6 @@
+framework module YSQRCodeGenerator {
+  umbrella header "YSQRCodeGenerator-umbrella.h"
+
+  export *
+  module * { export * }
+}

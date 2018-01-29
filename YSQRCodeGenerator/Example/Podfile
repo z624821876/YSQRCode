@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YSQRCodeGenerator_Example' do
+  pod 'YSQRCodeGenerator', :path => '../'
+
+  target 'YSQRCodeGenerator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

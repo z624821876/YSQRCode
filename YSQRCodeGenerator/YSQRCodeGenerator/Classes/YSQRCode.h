@@ -12,4 +12,5 @@
 #import "YSQRCodeGenerator.h"
 #import "YSQRCodeRecognizer.h"
 
+
 #endif /* YSQRCode_h */

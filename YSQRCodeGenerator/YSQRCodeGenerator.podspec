@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'YSQRCodeGenerator/Classes/**/*.{h, m}'
+  s.source_files = 'YSQRCodeGenerator/Classes/**/*'
   
   # s.resource_bundles = {
   #   'YSQRCodeGenerator' => ['YSQRCodeGenerator/Assets/*.png']
